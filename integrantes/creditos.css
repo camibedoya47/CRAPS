@@ -1,0 +1,98 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body{
+	/*background-image:url(https://diarioinforme.com/wp-content/uploads/2021/03/Ilumina-tu-proximo-juego-de-DD-con-Pixel-LED-Powered.jpg);*/
+	background-image: url(https://media.istockphoto.com/vectors/neon-sign-square-frame-with-glowing-and-light-electric-bright-3d-vector-id1208470697?s=170x170);
+
+	background-size: contain;
+	margin-bottom: 0px;
+}
+
+.box {
+	display: flex;
+		flex-direction:column;
+		align-items: flex-start;
+		height: 100px;
+		width: 100%;
+
+
+
+}
+ 
+.box .intro {
+	align-self: center;
+	background-color: #f55c47;
+	padding: 10px 70px;
+	font-size: 30px;
+	color: #9fe6a0;
+	border-radius: 30px;
+
+
+}
+
+.m1{
+
+	/*display:block;
+	width:70%;
+	 */
+	display: flex;
+   	 align-items: center;
+   	 justify-content: center;
+ 	width: 220px;
+    height: 80px;  	 
+    margin:300px 880px; 
+	color:#F2D830;
+	font-size: 25px;
+	/*background-color: #ffdf6b;*/
+	border-radius:20px;
+	cursor:pointer;
+	position: absolute;
+	bottom: 0;
+}
+
+.a2{
+
+	/*display:block;
+	width:70%;
+	 */
+	display: flex;
+   	 align-items: center;
+   	 justify-content: center;
+ 	width: 220px;
+    height: 80px;  	 
+    margin:300px 215px; 
+	color:#F2D830;
+	font-size: 25px;
+	/*background-color: #ffdf6b;*/
+	border-radius:20px;
+	cursor:pointer;
+	position: absolute;
+	bottom: 0;
+}
+
+
+.final {
+ 	/*display:block;
+	width:70%;
+	 */
+	display: flex;
+   	 align-items: center;
+   	 justify-content: center;
+ 	width: 400px;
+    height: 30px;  	 
+    margin:70px 470px; 
+	color:#F2D830;
+	font-size: 20px;
+	background-color: #ffdf6b;
+	border-radius:20px;
+	cursor:pointer;
+	position: absolute;
+	bottom: 0;
+	padding: 10px;
+}
+
+/*.final .selected div {
+  width: 100px;
+  height: 100px;*/
