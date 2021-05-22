@@ -6,3 +6,4 @@ Abrir index.html
 ## Participantes:
   -Maria Camila Bedoya
   -Andres Felipe Baron Restrepo
+  -Daniel Latorre Narvaez
